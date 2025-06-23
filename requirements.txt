@@ -1,0 +1,9 @@
+streamlit
+tweepy
+textblob
+spotipy
+nltk
+qrcode
+Pillow
+pyttsx3
+SpeechRecognition
